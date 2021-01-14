@@ -1,0 +1,103 @@
+header{
+    background-color:#fceae8;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar-logo img{
+    width: 300px;
+}
+.navbar-nav li.nav-item a.nav-link{
+    font-size: 15px;
+    color: #3c3c3c;
+    font-weight: 500;
+    margin: 0 15px;
+}
+.all-content{
+    padding-top: 50px;
+}
+.text-title span{
+    color: #271c53;
+}
+.text-title h2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    color: #ffbe44;
+    line-height: 70px;
+}
+.text-para p{
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+}
+.girl-photo img{
+    width: 500px;
+    padding-left: 5%;
+    padding-bottom: 10%;
+}
+.main-text-title h2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 45px;
+    color: hsl(234, 27%, 20%);
+    font-weight: bold;
+}
+.card{
+      border: none;
+}
+.girl, .boy{
+    background: white;
+    box-shadow: 0px 5px 20px rgb(196, 180, 180);
+    border-radius: 20px;
+    padding: 15px;
+}
+.card-img img{
+    height: 370px;
+    margin: auto;
+    background: #ececec;
+    border-radius: 15px;
+    padding: 5px;
+}
+.big-text{
+    font-family: 'Roboto', sans-serif;
+    color: #2a2c42;
+    font-size: 25px;
+    font-weight: bold;
+}
+.small-para-text{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    color: #312e2e;
+}
+.price-dollar h2 {
+    font-family: 'Roboto', sans-serif;
+    color: #fabb45;
+    font-size: 35px;
+    font-weight: bold;
+}
+.price-dollar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.last-logo-img img{
+    width: 75px;
+}
+.last-all{
+    display: flex;
+    align-items: center;
+    background: rgb(255, 255, 255);
+    box-shadow: 0px 10px 20px hsla(0, 0%, 0%, 0.05);
+    border-radius: 20px;
+}
+.last-texts h4{
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    color: #30324d;
+    font-weight: bold;
+}
+.last-texts p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+    font-size: 15px;
+    color: #494949;
+}
